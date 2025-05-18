@@ -1,5 +1,5 @@
 # ChatBot_Imers-o_IA-_lura
-# FriendlyEnglish - Chatbot de Ensino de Inglês para Telegram 🤖🇬🇧🇧🇷
+# FriendlyEnglish - Chatbot de Ensino de Inglês para Telegram 🤖
 
 **FriendlyEnglish** é um chatbot inteligente para Telegram projetado para ajudar falantes de português a praticar e aprender inglês de forma interativa e engajadora. Utilizando o poder da IA Generativa do Google (Gemini), o bot oferece correções, explicações, e mantém a conversa fluindo!
 
